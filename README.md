@@ -1,6 +1,6 @@
 # Fintech-Demo
 
-This project is the UI for the demo of this project: [FinTech-Portfolio-Optimization]([https://link-url-here.org](https://github.com/simon-moulin/FinTech-Portfolio-Optimization))
+This project is the UI for the demo of this project: [FinTech-Portfolio-Optimization](https://github.com/simon-moulin/FinTech-Portfolio-Optimization)
 
 ## Project setup
 ```
